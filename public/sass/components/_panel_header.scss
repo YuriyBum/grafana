@@ -25,6 +25,7 @@ $panel-header-no-title-zindex: 1;
 }
 
 .panel-title {
+  pointer-events: none;
   border: 0px;
   font-weight: $font-weight-semi-bold;
   position: relative;
